@@ -2,7 +2,7 @@
 <?php
 $harder = true;
 $discipline = true;
-$try_to_execute = tru
+$try_to_execute = true
 do {
   if($harder && $discipline && $try_to_execute) {
     echo "I can do it and make it better";
